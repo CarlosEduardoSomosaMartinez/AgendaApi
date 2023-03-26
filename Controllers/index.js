@@ -1,6 +1,6 @@
 class ModelController{
     constructor(model){
-        this.model=model;
+        this.model= model;
     }
     getAllData=async(req,res)=>{
         try{
